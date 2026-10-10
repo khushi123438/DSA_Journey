@@ -40,7 +40,9 @@ To build strong problem-solving fundamentals through **consistent DSA practice**
 I continuously update this repository as I solve new problems on LeetCode.
 
 **Language:** Java ☕
+
 **Platform:** LeetCode
+
 **Focus:** DSA • Problem Solving • Interview Preparation
 
 ---
