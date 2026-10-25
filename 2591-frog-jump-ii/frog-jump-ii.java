@@ -1,5 +1,4 @@
-
-class Solution {
+class Solution { // strictly increasing --- greedy
     public int maxJump(int[] stones) {
         int n = stones.length;
         int ans = stones[1] - stones[0];
