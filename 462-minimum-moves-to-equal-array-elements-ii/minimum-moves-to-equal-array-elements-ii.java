@@ -3,10 +3,10 @@ class Solution {
         int n = nums.length;
         Arrays.sort(nums);
         int m = nums[n/2];
-        int moves=0;
+        long moves=0;
         for(int num:nums)
         moves+=Math.abs(num-m);
 
-        return moves;
+        return (int)moves;
     }
 }
